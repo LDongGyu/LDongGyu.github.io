@@ -14,6 +14,7 @@
 5. 자격증
   정보처리기사 등
 6. 희망사항
+  안드로이드 개발자
 7. 수상내역
 
 Tistory Blog : dunchi.tistory.com
